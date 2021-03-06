@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<p>so, this is just a random thing I am trying out I guess it is sort of a game but anyway press the buttons in order for the story. (1, 2, 3 , 4, 5, etc..) (Fun fact!: This was made entirely out of html code! So if I ever stop and say I will make a new one soon, then well.. it will take a while.. HTML CODE TAKES A WHILE! (Fun fact 2!: When you click on the buttons, it will number the panel since I can't make the buttons bigger and you don't miss something or skip some panels.)</p>
+
+<button onclick="setTimeout(myFunction, 100);">1</button>
+
+<script>
+function myFunction() {
+  alert('(Panel 1) WHAT ARE YE DOING HERE!?!?');
+}
+</script>
+
+<button onclick="setTimeout(myFunction2, 100);">2</button>
+
+<script>
+function myFunction2() {
+  alert('(Panel 2) ARE YOU MAD!?!?');
+}
+</script>
+
+<button onclick="setTimeout(myFunction3, 100);">3</button>
+
+<script>
+function myFunction3() {
+  alert('(Panel 3) YOUR NOT SUPPOSED TO BE HERE!!');
+}
+</script>
+
+<button onclick="setTimeout(myFunction4, 100);">4</button>
+
+<script>
+function myFunction4() {
+  alert('(Panel 4) GET OUT!!');
+}
+</script>
+
+<button onclick="setTimeout(myFunction5, 100);">5</button>
+
+<script>
+function myFunction5() {
+  alert('(Panel 5) Alright.. some peace and quiet..');
+}
+</script>
+
+<button onclick="setTimeout(myFunction6, 100);">6</button>
+
+<script>
+function myFunction6() {
+  alert('(Panel 6) Wait a minute..');
+}
+</script>
+
+<button onclick="setTimeout(myFunction7, 100);">7</button>
+
+<script>
+function myFunction7() {
+  alert('(Panel 7) YOU NEVER LEFT!!');
+}
+</script>
+
+<button onclick="setTimeout(myFunction8, 100);">8</button>
+
+<script>
+function myFunction8() {
+  alert('(Panel 8) I guess I could try and be nice and friendly.. What is your name?');
+}
+</script>
+
+<button onclick="setTimeout(myFunction9, 100);">The ending (and more info!)</button>
+
+<script>
+function myFunction9() {
+  alert('(Ending panel) This is the ending of the game part 2 coming soon! Make sure to subscribe! Here is a little hint for what is going to happen next time: S� Ta��! NOBODY WILL GUESS UNLESS THEY LOOK AT A 8-10 MONTH OLD VIDEO ON MY CHANNEL!');
+}
+</script>
